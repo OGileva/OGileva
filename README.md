@@ -1,4 +1,4 @@
-[![Header](https://github.com/OGileva/OGileva/blob/main/assets/logo.png)]
+![Header](https://github.com/OGileva/OGileva/blob/main/assets/logo.png)
 
 About me
 
