@@ -10,6 +10,7 @@
 
 ### My projects
 [Тестирование Яндекс Маршрутов](https://github.com/OGileva/qa-routes)
+[Тестирование мобильного приложения Яндекс Метро](https://github.com/OGileva/yandexmetro_mobile)
 
 ### Follow me
 ### Socials:
