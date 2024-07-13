@@ -1,4 +1,4 @@
-[![Header](https://github.com/OGileva/OGileva/blob/main/assets/logo2.png)]
+![Header](https://github.com/OGileva/OGileva/blob/main/assets/logo2.png)
 
 ### Hi there! Welcome to my Github!
 ### I`m begginer QA Engineer from Russia.
