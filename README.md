@@ -19,7 +19,7 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-E5C2B6?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ohtakemydrama)
 [![Instagram](https://img.shields.io/badge/-Instagram-E5C2B6?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ohtakemydrama)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E5C2B6?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/olga-gileva-a814b2319/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E5C2B6?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ohtakemydrama/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-E5C2B6?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ohtakemydrama)
 [![Facebook](https://img.shields.io/badge/-Facebook-E5C2B6?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/)
 
