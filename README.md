@@ -13,3 +13,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E5C2B6?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ohtakemydrama)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-E5C2B6?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ohtakemydrama)
 [![Facebook](https://img.shields.io/badge/-Facebook-E5C2B6?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGileva)](https://github.com/anuraghazra/github-readme-stats)
