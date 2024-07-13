@@ -13,6 +13,8 @@
 
 [Тестирование мобильного приложения Яндекс Метро](https://github.com/OGileva/yandexmetro_mobile)
 
+[Тестирование приложения Яндекс Самокат](https://github.com/OGileva/diplom-qa-yandex)
+
 ### Follow me
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-E5C2B6?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ohtakemydrama)
