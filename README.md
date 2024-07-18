@@ -3,7 +3,7 @@
 ### Hi there! Welcome to my Github!
 ### I`m begginer QA Engineer from Russia.
 
-### [My CV](https://github.com/OGileva/CV/blob/main/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%93%D0%B8%D0%BB%D0%B5%CC%88%D0%B2%D0%B0%20(1).pdf)
+### [My CV](https://github.com/OGileva/CV/blob/main/%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0%20%D0%93%D0%B8%D0%BB%D0%B5%CC%88%D0%B2%D0%B0%202024.pdf)
 
 ### Technologies and Tools I use: 
 ![DevTools](https://img.shields.io/badge/DevTools-74aa9c?style=for-the-badge&logo=devpost&logoColor=white)
